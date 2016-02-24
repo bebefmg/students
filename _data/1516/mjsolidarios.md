@@ -1,7 +1,7 @@
-emoji :v: y'all!
-***
-about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
-
-hugot_lines/other_stuffs
-> "Happiness is just a matter of perspective. It's your choice how to look at the world".
++emoji :v: :eyes:
++
++about_me
++
++Hi! Im Flora MG and I do what ever i want.. i sing, i dance, i laugh, i cry
++hugot_lines
++"Appreciate those who love you. Help those who need you. Forgive those who hurt you. Forget those who leave you."
